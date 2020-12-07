@@ -15,7 +15,7 @@ You need to have jdk installed in your machine.
 Clone this repo:
 
 ```bash
-https://github.com/jcontrerasroberto/chess-ui.git
+git clone https://github.com/jcontrerasroberto/chess-ui.git
 ```
 
 Compile the java file
